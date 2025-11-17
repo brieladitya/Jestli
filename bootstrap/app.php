@@ -1,6 +1,7 @@
 <?php
 // ini changes ilham
 //this is bootstrap
+//cape jir 
 use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Configuration\Exceptions;
 use Illuminate\Foundation\Configuration\Middleware;
