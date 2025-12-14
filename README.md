@@ -1,7 +1,7 @@
 # jestli
 
 File terakhir diupdate berada pada UpdateFE (jika hanya ada Main Branch berarti proses merge telah selesai) 
-jika ingin melihat hasil akhir proyek pergi ke branch FE
+jika ingin melihat hasil akhir proyek pergi ke branch **UpdateFE**
 
 note: ketika ingin clone repo ini jangan lupa untuk :
 -install composer
