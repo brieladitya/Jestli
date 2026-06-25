@@ -1,12 +1,1 @@
-# jestli
-
-File terakhir diupdate berada pada UpdateFE (jika hanya ada Main Branch berarti proses merge telah selesai) 
-jika ingin melihat hasil akhir proyek pergi ke branch **UpdateFE**
-
-note: ketika ingin clone repo ini jangan lupa untuk :
--install composer
--install npm
--storage link
--dump autoload
--install any needed package 
--artisan migrate 
+Jestli is a web-based social media platform dedicated to meme sharing and community interaction. Users can create accounts, post memes, explore trending content, and engage with others through likes and comments. The platform is designed to provide a simple, intuitive, and enjoyable experience where humor and creativity become the main form of expression. By focusing specifically on memes, Jestli creates a dedicated space for people to connect, participate in discussions, and share entertaining content. Its community-driven approach encourages user engagement and makes meme discovery and interaction both fun and accessible. This project was developed as a collaborative project, with team members contributing to various aspects of the platform.
